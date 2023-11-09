@@ -144,7 +144,7 @@ export default () => {
               name="url"
               type="url"
               class="input input-bordered w-full"
-              placeholder="http://127.0.0.1:9090"
+              placeholder="https://ys.mihoyo.com/main/"
               list="defaultEndpoints"
             />
 
