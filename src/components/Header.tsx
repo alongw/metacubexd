@@ -30,7 +30,6 @@ const Nav: ParentComponent<{ href: string; tooltip: string }> = ({
 const ThemeSwitcher = () => (
   <div class="drawer drawer-end w-auto sm:ml-auto">
     <input id="themes" type="checkbox" class="drawer-toggle" />
-
     <div class="drawer-content flex items-center">
       <label
         for="themes"
