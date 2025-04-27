@@ -6,12 +6,12 @@ export const LogoText = () => (
       class="bg-gradient-to-br from-primary to-secondary bg-clip-text text-transparent"
       href={endpoint() ? '/' : '/setup'}
     >
-      metacube
+      Genshin Impact
     </A>
     <span>(</span>
     <a
       class="text-primary transition-transform hover:scale-125 hover:rotate-90"
-      href="https://github.com/metacubex/metacubexd"
+      href="https://genshin.hoyoverse.com/"
       target="_blank"
     >
       xd
